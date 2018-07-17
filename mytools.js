@@ -7,3 +7,4 @@ var mytools={
 }
 //text is just text
 there  are some changes
+changes
